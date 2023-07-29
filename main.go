@@ -171,7 +171,7 @@ func main() {
 			fmt.Println("--------------------")
 			continue
 		}
-		fmt.Println("biliGPT回答：", result)
+		fmt.Println("bilibiliSearchAI回答：", result)
 		fmt.Println("--------------------")
 	}
 }
